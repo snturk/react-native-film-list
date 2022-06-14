@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "NativeGibi",
+    "slug": "NativeGibi",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
